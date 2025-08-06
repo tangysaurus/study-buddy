@@ -218,10 +218,10 @@ export default function OnboardingPage() {
         <div className="container mx-auto px-4 py-24">
           <div className="text-center mb-24">
             <h1 className="text-5xl font-bold text-gray-900 mb-8">
-              Welcome to AI Study Coach
+              Welcome to Bearious!
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-16">
-              Your personalized learning companion that adapts to your unique learning style and helps you excel in every subject.
+              AI-powered roadmaps, problem sets, and feedback for Berkeley students — with streamlined course organization for professors..
             </p>
             <div className="flex justify-center gap-16 mb-20">
               <div className="text-center">
