@@ -234,13 +234,13 @@ export default function OnboardingPage() {
                 <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
                   <Atom className="w-10 h-10 text-green-600" />
                 </div>
-                <p className="text-base font-medium">AI-Powered Feedback</p>
+                <p className="text-base font-medium">Course Organization</p>
               </div>
               <div className="text-center">
                 <div className="w-20 h-20 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-6">
                   <Users className="w-10 h-10 text-purple-600" />
                 </div>
-                <p className="text-base font-medium">Interactive Learning</p>
+                <p className="text-base font-medium">Interactive Problem Sets</p>
               </div>
             </div>
           </div>
